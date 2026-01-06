@@ -1,20 +1,37 @@
-<<<<<<< HEAD
-# React + Vite
+Prospective Customer Segmentation – React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple React webpage designed to visually explain customer segmentation using three cards — Satisfied, Underserved, and Underbanked customers.
 
-Currently, two official plugins are available:
+Each card shows:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+a customer photo
 
-## React Compiler
+a short description
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+a category label
 
-## Expanding the ESLint configuration
+an action button
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# React
->>>>>>> fdbbc1ad5b7951c8ca16d4cf8b680279e3bb4d0b
+The layout is clean, minimal making it suitable for digital banking or customer-insight themed projects.
+
+🎯 Features
+
+🔹 Built with React
+
+🔹 Clean card-based UI
+
+🔹 Simple, readable component structure
+
+🔹 Easily customizable images and text
+
+🔹 Responsive layout (works on different screen sizes)
+
+🛠 Tech Stack
+
+React
+
+JavaScript (ES6+)
+
+CSS / Tailwind / custom styling
+
+Images from royalty-free sources
